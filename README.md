@@ -7,6 +7,7 @@ I build systems from scratch — to understand how things work at execution leve
 
 [![Email](https://img.shields.io/badge/ishjaap.singh07%40gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:ishjaap.singh07@gmail.com)
 [![X](https://img.shields.io/badge/@vennictus-000000?style=flat&logo=x&logoColor=white)](https://x.com/vennictus)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-vennictus.vercel.app/)
 
 </div>
 
@@ -24,7 +25,7 @@ I build systems from scratch — to understand how things work at execution leve
 
 ---
 
-## Focus
+## Current Focus
 
 - Backend engineering and system design
 - Compilers, execution models, and low-level systems
@@ -32,7 +33,7 @@ I build systems from scratch — to understand how things work at execution leve
 
 ---
 
-## Projects
+## Some Projects I Built
 
 ### [ORION](https://github.com/vennictus/orion) — WebAssembly Compiler
 `TypeScript` &nbsp;·&nbsp; *compiler · wasm · binary*
